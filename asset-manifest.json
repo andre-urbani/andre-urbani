@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/andre-urbani/static/css/main.d1b05096.chunk.css",
+    "main.js": "/andre-urbani/static/js/main.863165a2.chunk.js",
+    "main.js.map": "/andre-urbani/static/js/main.863165a2.chunk.js.map",
+    "runtime-main.js": "/andre-urbani/static/js/runtime-main.a8bbb617.js",
+    "runtime-main.js.map": "/andre-urbani/static/js/runtime-main.a8bbb617.js.map",
+    "static/js/2.4ed51117.chunk.js": "/andre-urbani/static/js/2.4ed51117.chunk.js",
+    "static/js/2.4ed51117.chunk.js.map": "/andre-urbani/static/js/2.4ed51117.chunk.js.map",
+    "index.html": "/andre-urbani/index.html",
+    "precache-manifest.3c7fd0f13f05cf783a1859d3f3649e69.js": "/andre-urbani/precache-manifest.3c7fd0f13f05cf783a1859d3f3649e69.js",
+    "service-worker.js": "/andre-urbani/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/andre-urbani/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4ed51117.chunk.js.LICENSE": "/andre-urbani/static/js/2.4ed51117.chunk.js.LICENSE",
+    "static/media/logo.svg": "/andre-urbani/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bbb617.js",
+    "static/js/2.4ed51117.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.863165a2.chunk.js"
+  ]
+}
