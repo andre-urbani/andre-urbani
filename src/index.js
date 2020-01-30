@@ -4,6 +4,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import 'bulma'
+import '/Users/andreurbani/development/andre-urbani/src/style.scss'
 
 import Home from './components/Home'
 

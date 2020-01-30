@@ -1,18 +1,22 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 
 const Home = () => {
 
-  const [projects, setProjects] = useState({
 
-    title: '',
-    description: '',
-    image: '',
-    link: '',
-    ghLink: '',
 
-  })
-  
-  return <div>helloooo world!!!</div>
+  return <div>
+    <div className='hero-container'>helloooo world!!!
+      <div className="left-column">
+        <div className="my-photo"></div>
+        <div className="my-name">Andre Urbani</div>
+      </div>
+      <div className="right-column">
+        <div className="about-me">Hi I'm Andre</div>
+      </div>
+    </div>
+    <div className="tech-skills-container"></div>
+    <div className="projects-container"></div>
+  </div>
 
 
 }
