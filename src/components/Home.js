@@ -8,19 +8,19 @@ const Home = () => {
     <div className='hero-container'>
       <div className="left-column">
         <div id="page-links">
-          <a href="#tech-skills">Tech Skills</a>
-          <div>Portfolio</div>
-          <div>Education</div>
-          <div>Contact</div>
+          <a href="#tech-skills" className="effect-underline">Tech Skills</a>
+          <a href="#portfolio" className="effect-underline">Portfolio</a>
+          <a href="#educatiion" className="effect-underline">Education</a>
+          <a href="#contact" className="effect-underline">Contact</a>
         </div>
         <div id="my-photo"></div>
         <div id="my-name">André Urbani</div>
         <div id="my-hobbies">Web Developer | Traveler | Music Lover</div>
-        <div id="icon" class="devicon-github-plain-wordmark colored git"></div>
+        <a href="https://github.com/andre-urbani" target="_blank"><div id="icon" class="devicon-github-plain-wordmark colored git"></div></a>
         
       </div>
       <div className="right-column">
-        <div>About</div>
+        <div id="about-text">About</div>
         <hr></hr>
         <div id="about-me">Hi I'm André, hildshgidshglkds, hdisfhidsjf jilfsdjlff jildjfg dsjifjgg hjiljgdgw. gfhsljfhjs jjglsjgklg gjkljgkljgls,fsf. gyjghk ghh ghjg g ggh ghjkgjkgjk ghkgk ghkghkgj gfd gd f fyfjfg gjghk. gyufthdg gyuftyjguhl gyfj. ggkg hgkghff gff d gfyfj.</div>
       </div>

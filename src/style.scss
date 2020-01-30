@@ -1,12 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
 
 @import url('https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css');
 
-// @import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-  font-family: 'Josefin Sans', sans-serif;
-  // font-family: 'Comfortaa', cursive;
+  // font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .hero-container {
@@ -31,7 +35,7 @@ body {
   background-image: url("https://i.imgur.com/1Tmyccz.jpg") ;
   // opacity: 0.65;
   border-radius: 50%;
-  border: #adefd1ff 5px solid;
+  // border: #adefd1ff 5px solid;
   
 }
 
@@ -43,33 +47,33 @@ body {
   // background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-043.jpg');
   // background-size: 100px;
  
-  width: 50%;
+  width: 70%;
   height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
   text-align: center;
-  background-color: rgb(23, 43, 63);
+  background: radial-gradient(#172b3f, #16273b);
   color: white;
   // border: #adefd1ff 5px solid;
   
 }
 
 .right-column {
-  width: 50%;
+  width: 30%;
   height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: rgb(198, 236, 219);
-  color: #00203fff;
+  background:radial-gradient(#c6c6c6, #747474);
+  color: rgb(23, 43, 63);
 
 
-  // background-size: 100vw 100vh;
-  // background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-027.jpg');
+  // background-size: 100%;
+  // background-image: url('https://lh3.googleusercontent.com/proxy/KSSNACL47sqLpkgMMA0uSkTijsxJsW7LsBdFJzgqMhkPs88yYvLU8pFSFg3W1wl0ULUIHtY3MdlN6R_NBfKfmhoBztxZN1A5M7dY');
   // opacity: 0.8
 }
 
@@ -100,6 +104,7 @@ body {
   margin: 50px;
   // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
   background: rgb(236, 236, 236);
+  // font-weight: bold
 }
 
 #icon {
@@ -125,7 +130,17 @@ body {
   font-size: 50px;
 }
 
-a { color: inherit; } 
+a { 
+  color: inherit; 
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  color: white;
+} 
+
+a:hover { 
+  color: inherit; 
+} 
 
 hr {
   border: 0;
@@ -145,6 +160,35 @@ hr {
   height: 1px;
 }
 
-.git {
+a.effect-underline:after {
+	content: '';
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  height: 1em;
+  width: 100%;
+  border-bottom: 1px solid;
+  margin-top: 10px;
+  opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(0,1);
+  transform: scale(0,1);
+  color: white;
+}
+
+a.effect-underline:hover:after {
+  opacity: 1;
+	-webkit-transform: scale(1);
+  transform: scale(1);
   color: white
+}
+
+#tech-skills:hover {
+  color: inherit
+}
+
+#about-text {
+  font-size: 30px;
+  font-weight: bold
 }
