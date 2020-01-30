@@ -8,13 +8,16 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bulma": "^0.8.0",
+    "css-loader": "^3.4.2",
+    "file-loader": "^5.0.2",
     "hashrouter": "^1.1.1",
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "url-loader": "^3.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
