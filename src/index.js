@@ -1,17 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import './index.css';
 import * as serviceWorker from './serviceWorker';
+import 'bulma'
+
+import Home from './components/Home'
 
 const App = () => (
 
-  <div>hello world</div>
-  // <HashRouter>
-  //   <Switch>
-  //     <Route exact path="/" component={Home} />
+  <BrowserRouter>
+    <Switch>
+      <Route exact path="/" component={Home} />
     
-  //   </Switch>
-  // </HashRouter>
+    </Switch>
+  </BrowserRouter>
 )
 
 ReactDOM.render(<App />, document.getElementById('root'));
