@@ -10,7 +10,7 @@ import Home from './components/Home'
 
 const App = () => (
 
-  <BrowserRouter>
+  <BrowserRouter basename={window.location.pathname || ''}>
     <Switch>
       <Route exact path="/" component={Home} />
     
