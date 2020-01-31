@@ -12,15 +12,16 @@ const Home = () => {
           <a href="#portfolio" className="effect-underline">Portfolio</a>
           <a href="#educatiion" className="effect-underline">Education</a>
           <a href="#contact" className="effect-underline">Contact</a>
+          
         </div>
         <div id="my-photo"></div>
         <div id="my-name">André Urbani</div>
-        <div id="my-hobbies">Web Developer | Traveler | Music Lover</div>
+        <div id="my-hobbies">Junior Web Developer | Traveler | Music Lover</div>
         <a href="https://github.com/andre-urbani" target="_blank"><div id="icon" class="devicon-github-plain-wordmark colored git"></div></a>
         
       </div>
       <div className="right-column">
-        <div id="about-text">About</div>
+        <div id="about-text">About Me</div>
         <hr></hr>
         <div id="about-me">Hi I'm André, hildshgidshglkds, hdisfhidsjf jilfsdjlff jildjfg dsjifjgg hjiljgdgw. gfhsljfhjs jjglsjgklg gjkljgkljgls,fsf. gyjghk ghh ghjg g ggh ghjkgjkgjk ghkgk ghkghkgj gfd gd f fyfjfg gjghk. gyufthdg gyuftyjguhl gyfj. ggkg hgkghff gff d gfyfj.</div>
       </div>

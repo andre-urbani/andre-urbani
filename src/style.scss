@@ -40,7 +40,7 @@ body {
 }
 
 #my-hobbies {
-  font-size: 18px
+  font-size: 15px
 }
 
 .left-column {
@@ -56,7 +56,6 @@ body {
   text-align: center;
   background: radial-gradient(#172b3f, #16273b);
   color: white;
-  // border: #adefd1ff 5px solid;
   
 }
 
@@ -68,7 +67,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background:radial-gradient(#c6c6c6, #747474);
+  background:#a3a3a3;
   color: rgb(23, 43, 63);
 
 
@@ -99,11 +98,12 @@ body {
 
 #about-me {
   border: #00203fff 2px solid;
-  font-size: 20px;
+  font-size: 16px;
   padding: 50px;
   margin: 50px;
-  // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
   background: rgb(236, 236, 236);
+  color: #00203fff;
   // font-weight: bold
 }
 
@@ -155,8 +155,8 @@ hr {
   border: 0;
   clear:both;
   display:block;
-  width: 85%;               
-  background-color: #adefd1ff;
+  width: 100%;               
+  background-color: white;
   height: 1px;
 }
 
@@ -189,6 +189,11 @@ a.effect-underline:hover:after {
 }
 
 #about-text {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold
+}
+
+#my-name {
+  font-weight: 900;
+  text-shadow: 2px 2px #108181;
 }
