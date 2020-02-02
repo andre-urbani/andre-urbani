@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/andre-urbani/static/css/main.4fed898f.chunk.css",
+    "main.js": "/andre-urbani/static/js/main.eff97301.chunk.js",
+    "main.js.map": "/andre-urbani/static/js/main.eff97301.chunk.js.map",
+    "runtime-main.js": "/andre-urbani/static/js/runtime-main.a8bbb617.js",
+    "runtime-main.js.map": "/andre-urbani/static/js/runtime-main.a8bbb617.js.map",
+    "static/css/2.5dabca3a.chunk.css": "/andre-urbani/static/css/2.5dabca3a.chunk.css",
+    "static/js/2.914abd71.chunk.js": "/andre-urbani/static/js/2.914abd71.chunk.js",
+    "static/js/2.914abd71.chunk.js.map": "/andre-urbani/static/js/2.914abd71.chunk.js.map",
+    "index.html": "/andre-urbani/index.html",
+    "precache-manifest.657fe4178c5d882efb53f124140d0be8.js": "/andre-urbani/precache-manifest.657fe4178c5d882efb53f124140d0be8.js",
+    "service-worker.js": "/andre-urbani/service-worker.js",
+    "static/css/2.5dabca3a.chunk.css.map": "/andre-urbani/static/css/2.5dabca3a.chunk.css.map",
+    "static/css/main.4fed898f.chunk.css.map": "/andre-urbani/static/css/main.4fed898f.chunk.css.map",
+    "static/js/2.914abd71.chunk.js.LICENSE": "/andre-urbani/static/js/2.914abd71.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bbb617.js",
+    "static/css/2.5dabca3a.chunk.css",
+    "static/js/2.914abd71.chunk.js",
+    "static/css/main.4fed898f.chunk.css",
+    "static/js/main.eff97301.chunk.js"
+  ]
+}
