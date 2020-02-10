@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/andre-urbani/static/css/main.0ceae20d.chunk.css",
-    "main.js": "/andre-urbani/static/js/main.f5f6014d.chunk.js",
-    "main.js.map": "/andre-urbani/static/js/main.f5f6014d.chunk.js.map",
+    "main.css": "/andre-urbani/static/css/main.162e8fea.chunk.css",
+    "main.js": "/andre-urbani/static/js/main.cc780399.chunk.js",
+    "main.js.map": "/andre-urbani/static/js/main.cc780399.chunk.js.map",
     "runtime-main.js": "/andre-urbani/static/js/runtime-main.a8bbb617.js",
     "runtime-main.js.map": "/andre-urbani/static/js/runtime-main.a8bbb617.js.map",
     "static/css/2.5dabca3a.chunk.css": "/andre-urbani/static/css/2.5dabca3a.chunk.css",
-    "static/js/2.dec57e3f.chunk.js": "/andre-urbani/static/js/2.dec57e3f.chunk.js",
-    "static/js/2.dec57e3f.chunk.js.map": "/andre-urbani/static/js/2.dec57e3f.chunk.js.map",
+    "static/js/2.b66292e3.chunk.js": "/andre-urbani/static/js/2.b66292e3.chunk.js",
+    "static/js/2.b66292e3.chunk.js.map": "/andre-urbani/static/js/2.b66292e3.chunk.js.map",
     "index.html": "/andre-urbani/index.html",
-    "precache-manifest.121c62ef0984123dd2f6160002b8a5a4.js": "/andre-urbani/precache-manifest.121c62ef0984123dd2f6160002b8a5a4.js",
+    "precache-manifest.1c0665785555245ef71772137a44e26a.js": "/andre-urbani/precache-manifest.1c0665785555245ef71772137a44e26a.js",
     "service-worker.js": "/andre-urbani/service-worker.js",
     "static/css/2.5dabca3a.chunk.css.map": "/andre-urbani/static/css/2.5dabca3a.chunk.css.map",
-    "static/css/main.0ceae20d.chunk.css.map": "/andre-urbani/static/css/main.0ceae20d.chunk.css.map",
-    "static/js/2.dec57e3f.chunk.js.LICENSE": "/andre-urbani/static/js/2.dec57e3f.chunk.js.LICENSE",
+    "static/css/main.162e8fea.chunk.css.map": "/andre-urbani/static/css/main.162e8fea.chunk.css.map",
+    "static/js/2.b66292e3.chunk.js.LICENSE": "/andre-urbani/static/js/2.b66292e3.chunk.js.LICENSE",
     "static/media/artistflowimage.png": "/andre-urbani/static/media/artistflowimage.20f5c163.png",
     "static/media/bambookimage.png": "/andre-urbani/static/media/bambookimage.fdf4009a.png",
     "static/media/spaceinvadersimage.png": "/andre-urbani/static/media/spaceinvadersimage.d7f1d91f.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.a8bbb617.js",
     "static/css/2.5dabca3a.chunk.css",
-    "static/js/2.dec57e3f.chunk.js",
-    "static/css/main.0ceae20d.chunk.css",
-    "static/js/main.f5f6014d.chunk.js"
+    "static/js/2.b66292e3.chunk.js",
+    "static/css/main.162e8fea.chunk.css",
+    "static/js/main.cc780399.chunk.js"
   ]
 }
