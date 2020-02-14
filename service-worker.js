@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/andre-urbani/precache-manifest.fb2bc04a2a686aa391f7183d50581830.js"
+  "/andre-urbani/precache-manifest.54148e9a3e3d17b6c825b1b6b77a14af.js"
 );
 
 self.addEventListener('message', (event) => {

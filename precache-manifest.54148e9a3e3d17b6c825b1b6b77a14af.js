@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09958b7738c57b795e366c0002a352a8",
+    "revision": "06c090ff6234cd932b85b2503f6383c0",
     "url": "/andre-urbani/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andre-urbani/static/css/2.5dabca3a.chunk.css"
   },
   {
-    "revision": "4dd0c323c6156a70a3f7",
+    "revision": "ea79ba1f189adde87db0",
     "url": "/andre-urbani/static/css/main.95152787.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/andre-urbani/static/js/2.73fc3166.chunk.js.LICENSE"
   },
   {
-    "revision": "4dd0c323c6156a70a3f7",
-    "url": "/andre-urbani/static/js/main.bbf87242.chunk.js"
+    "revision": "ea79ba1f189adde87db0",
+    "url": "/andre-urbani/static/js/main.2138d6a1.chunk.js"
   },
   {
     "revision": "6c04843a63291e129797",
