@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06c090ff6234cd932b85b2503f6383c0",
+    "revision": "76e1e26eb4c9a0183f94800596ff9e65",
     "url": "/andre-urbani/index.html"
   },
   {
-    "revision": "b59990de1541dd17307f",
+    "revision": "b83ccb5d5980ace4c521",
     "url": "/andre-urbani/static/css/2.5dabca3a.chunk.css"
   },
   {
-    "revision": "ea79ba1f189adde87db0",
-    "url": "/andre-urbani/static/css/main.95152787.chunk.css"
+    "revision": "02524cfd2a17032bbed5",
+    "url": "/andre-urbani/static/css/main.0e136108.chunk.css"
   },
   {
-    "revision": "b59990de1541dd17307f",
-    "url": "/andre-urbani/static/js/2.73fc3166.chunk.js"
+    "revision": "b83ccb5d5980ace4c521",
+    "url": "/andre-urbani/static/js/2.feff42bd.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/andre-urbani/static/js/2.73fc3166.chunk.js.LICENSE"
+    "url": "/andre-urbani/static/js/2.feff42bd.chunk.js.LICENSE"
   },
   {
-    "revision": "ea79ba1f189adde87db0",
-    "url": "/andre-urbani/static/js/main.2138d6a1.chunk.js"
+    "revision": "02524cfd2a17032bbed5",
+    "url": "/andre-urbani/static/js/main.7ea68bb8.chunk.js"
   },
   {
     "revision": "6c04843a63291e129797",
