@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/andre-urbani/static/css/main.1548a478.chunk.css",
-    "main.js": "/andre-urbani/static/js/main.d146bf56.chunk.js",
-    "main.js.map": "/andre-urbani/static/js/main.d146bf56.chunk.js.map",
+    "main.js": "/andre-urbani/static/js/main.0f3fb385.chunk.js",
+    "main.js.map": "/andre-urbani/static/js/main.0f3fb385.chunk.js.map",
     "runtime-main.js": "/andre-urbani/static/js/runtime-main.a8bbb617.js",
     "runtime-main.js.map": "/andre-urbani/static/js/runtime-main.a8bbb617.js.map",
     "static/css/2.5dabca3a.chunk.css": "/andre-urbani/static/css/2.5dabca3a.chunk.css",
     "static/js/2.feff42bd.chunk.js": "/andre-urbani/static/js/2.feff42bd.chunk.js",
     "static/js/2.feff42bd.chunk.js.map": "/andre-urbani/static/js/2.feff42bd.chunk.js.map",
     "index.html": "/andre-urbani/index.html",
-    "precache-manifest.b9b5b99f2d8479b057560de2465514f9.js": "/andre-urbani/precache-manifest.b9b5b99f2d8479b057560de2465514f9.js",
+    "precache-manifest.e0308c41241a2188fecdb3d158a67360.js": "/andre-urbani/precache-manifest.e0308c41241a2188fecdb3d158a67360.js",
     "service-worker.js": "/andre-urbani/service-worker.js",
     "static/css/2.5dabca3a.chunk.css.map": "/andre-urbani/static/css/2.5dabca3a.chunk.css.map",
     "static/css/main.1548a478.chunk.css.map": "/andre-urbani/static/css/main.1548a478.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.5dabca3a.chunk.css",
     "static/js/2.feff42bd.chunk.js",
     "static/css/main.1548a478.chunk.css",
-    "static/js/main.d146bf56.chunk.js"
+    "static/js/main.0f3fb385.chunk.js"
   ]
 }
